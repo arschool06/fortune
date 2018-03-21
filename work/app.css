@@ -1,0 +1,155 @@
+/* おみくじアプリのスタイル */
+
+/* メイン画面のレイアウト */
+.main {
+  background: rgba(248,235,250,1);
+background: -moz-linear-gradient(left, rgba(248,235,250,1) 0%, rgba(250,168,212,1) 35%, rgba(237,138,252,1) 52%, rgba(140,125,255,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(248,235,250,1)), color-stop(35%, rgba(250,168,212,1)), color-stop(52%, rgba(237,138,252,1)), color-stop(100%, rgba(140,125,255,1)));
+background: -webkit-linear-gradient(left, rgba(248,235,250,1) 0%, rgba(250,168,212,1) 35%, rgba(237,138,252,1) 52%, rgba(140,125,255,1) 100%);
+background: -o-linear-gradient(left, rgba(248,235,250,1) 0%, rgba(250,168,212,1) 35%, rgba(237,138,252,1) 52%, rgba(140,125,255,1) 100%);
+background: -ms-linear-gradient(left, rgba(248,235,250,1) 0%, rgba(250,168,212,1) 35%, rgba(237,138,252,1) 52%, rgba(140,125,255,1) 100%);
+background: linear-gradient(to right, rgba(248,235,250,1) 0%, rgba(250,168,212,1) 35%, rgba(237,138,252,1) 52%, rgba(140,125,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8ebfa', endColorstr='#8c7dff', GradientType=1 );
+
+  border-color: black;
+}
+
+
+/* クリックできるボタン */
+.btn {
+  border-color: black;
+}
+
+/* ベージュのボタンの背景 */
+.btn-beige {
+  background-color: #0000FF;
+}
+
+/* ベージュのボタンマウスオーバー時の背景 */
+.btn-beige:hover {
+  background-color: #00FF00;
+}
+
+/* 赤いボタンの背景 */
+.btn-red {
+  background-color: #0000FF;
+}
+
+/* 赤いボタンマウスオーバー時の背景 */
+.btn-red:hover {
+  background-color: #ff4500;
+}
+
+/* ボタン中のテキストを縦横中央に設置 */
+.btn>p {
+  color: black;
+}
+
+/* ボタン中のヘッダ２を縦横中央に設置 */
+.btn>h2 {
+  color: black;
+}
+
+/* 結果等を表示する枠 */
+.panel {
+  background-color: #fff8dc;
+  border-color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

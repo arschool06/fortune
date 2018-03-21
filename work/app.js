@@ -18,6 +18,26 @@ let shokiSettei = () => {
 
 // おみくじの中身
 let omikujiNakami = [
+   { // 凶の設定
+  　kekkaTitle:'悲しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: 'そっとしといてね', // おみくじの結果につける説明文
+    kekkaImage: 'k.png' //おみくじの結果に表示する画像
+  },
+   { // 凶の設定
+  　kekkaTitle:'悲しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: 'そっとしといてね', // おみくじの結果につける説明文
+    kekkaImage: 'k.png' //おみくじの結果に表示する画像
+  },
+  { // 凶の設定
+  　kekkaTitle:'悲しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: 'そっとしといてね', // おみくじの結果につける説明文
+    kekkaImage: 'k.png' //おみくじの結果に表示する画像
+  },
+  { // 凶の設定
+  　kekkaTitle:'悲しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: 'そっとしといてね', // おみくじの結果につける説明文
+    kekkaImage: 'k.png' //おみくじの結果に表示する画像
+  },
   { // 凶の設定
   　kekkaTitle:'悲しい', // おみくじの結果のタイトル文
     kekkaSetsumei: 'そっとしといてね', // おみくじの結果につける説明文
@@ -38,7 +58,66 @@ let omikujiNakami = [
     kekkaSetsumei: 'そっとしといてね', // おみくじの結果につける説明文
     kekkaImage: 'ｋ.png' //おみくじの結果に表示する画像
   },
-
+　{ // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+　{ // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+  　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
+    kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
+    kekkaImage: 'u.png' //おみくじの結果に表示する画像
+  },
 　 { // 吉の設定
   　kekkaTitle:'嬉しい', // おみくじの結果のタイトル文
     kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
@@ -54,26 +133,41 @@ let omikujiNakami = [
     kekkaSetsumei: '今日は絶好調', // おみくじの結果につける説明文
     kekkaImage: 'u.png' //おみくじの結果に表示する画像
   },
-  { // 小吉の設定
-    kekkaTitle: '怒っている', // おみくじの結果のタイトル文
-    kekkaSetsumei: '近づくと殺されるかも', // おみくじの結果につける説明文
-    kekkaImage: '0.png' //おみくじの結果に表示する画像
-  },
-  { // 小吉の設定
-    kekkaTitle: '怒っている', // おみくじの結果のタイトル文
-    kekkaSetsumei: '近づくと殺されるかも', // おみくじの結果につける説明文
-    kekkaImage: '0.png' //おみくじの結果に表示する画像
-  },
   { // 大吉の設定
-    kekkaTitle: '恋してる', // おみくじの結果のタイトル文
-    kekkaSetsumei: '恋してる！？', // おみくじの結果につける説明文
+    kekkaTitle: '怒っている', // おみくじの結果のタイトル文
+    kekkaSetsumei: '睨まれるよ', // おみくじの結果につける説明文
+    kekkaImage: 'n.png' //おみくじの結果に表示する画像
+  },
+  { // 小の設定
+  　kekkaTitle:'恋してる？！', // おみくじの結果のタイトル文
+  　 kekkaSetsumei: 'すきなひとがいる？！', // おみくじの結果につける説明文
     kekkaImage: 'koi.png' //おみくじの結果に表示する画像
-  }
+  }, 
+  { // 小の設定
+  　kekkaTitle:'恋してる？！', // おみくじの結果のタイトル文
+  　 kekkaSetsumei: 'すきなひとがいる？！', // おみくじの結果につける説明文
+    kekkaImage: 'koi.png' //おみくじの結果に表示する画像
+  }, 
+  { // 小の設定
+  　kekkaTitle:'恋してる？！', // おみくじの結果のタイトル文
+  　 kekkaSetsumei: 'すきなひとがいる？！', // おみくじの結果につける説明文
+    kekkaImage: 'koi.png' //おみくじの結果に表示する画像
+  }, 
+  { // 小の設定
+  　kekkaTitle:'恋してる？！', // おみくじの結果のタイトル文
+  　 kekkaSetsumei: 'すきなひとがいる？！', // おみくじの結果につける説明文
+    kekkaImage: 'koi.png' //おみくじの結果に表示する画像
+  }, 
+{ // 小の設定
+  　kekkaTitle:'恋してる？！', // おみくじの結果のタイトル文
+  　 kekkaSetsumei: 'すきなひとがいる？！', // おみくじの結果につける説明文
+    kekkaImage: 'koi.png' //おみくじの結果に表示する画像
+  },
 ];
 
 // ルーレットの中身
 let omikujiRoulette = [
-'o.png',
+'n.png',
 'k.png',
 'u.png',
 'koi.png'
